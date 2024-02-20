@@ -14,3 +14,5 @@ Method Overriding.
 4-anagha_vp_task4.ipynb-The file covers various regex concepts and functionalities, allowing users to learn and practice pattern matching techniques. Each program is accompanied by comments explaining the regex pattern used and its functionality.
 
 5-anagha_vp_task5.ipynb:-The file covers various functionalities provided by Pandas and NumPy, allowing users to learn and practice data handling, cleaning, transformation, and analysis techniques using Python.
+
+6-anagha vp task6.ipynb:-This file contains a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
