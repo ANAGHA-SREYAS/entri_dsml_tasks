@@ -16,3 +16,5 @@ Method Overriding.
 5-anagha_vp_task5.ipynb:-The file covers various functionalities provided by Pandas and NumPy, allowing users to learn and practice data handling, cleaning, transformation, and analysis techniques using Python.
 
 6-anagha vp task6.ipynb:-This file contains a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
+
+7-iris_EDA:- exploratory data analysis of iris data set
