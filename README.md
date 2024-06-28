@@ -1,5 +1,5 @@
 # entri_dsml_tasks
-Welcome to the Python Task Repository! This repository contains a variety of Python tasks designed to help you practice and improve your Python programming skills. Whether you're a beginner looking to learn the basics or an experienced programmer honing your skills, you'll find tasks here to challenge and inspire you.
+Welcome to the Python and Machine learning Task Repository! This repository contains a variety of Python and Mchine learning tasks designed to help you practice and improve your Python programming and Machine learning skills. Whether you're a beginner looking to learn the basics or an experienced programmer honing your skills, you'll find tasks here to challenge and inspire you.
 ## Task List
 
 This repository includes the following Python tasks:
