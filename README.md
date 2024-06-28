@@ -18,3 +18,5 @@ Method Overriding.
 6-matplotlib_task6.ipynb:-This file contains a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
 
 7-iris_EDA:- exploratory data analysis of iris data set
+
+8-ML-regression_task1.ipynb:-This project aims to predict insurance claim charges using machine learning regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
