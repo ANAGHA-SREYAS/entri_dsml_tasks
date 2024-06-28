@@ -20,3 +20,5 @@ Method Overriding.
 7-iris_EDA:- exploratory data analysis of iris data set
 
 8-ML-regression_task1.ipynb:-This project aims to predict insurance claim charges using machine learning regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
+
+9-ML_classification_task2.ipynb:-This repository contains code and data for a machine learning classification task aimed at predicting outcome/target based on features.
