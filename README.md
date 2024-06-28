@@ -4,17 +4,17 @@ Welcome to the Python Task Repository! This repository contains a variety of Pyt
 
 This repository includes the following Python tasks:
 
-1-Anagha_vp.ipynb:- Arithmetic Operations,Assignment Operators,Comparison Operators,Conditional Statements,Looping Constructs, Basic Data Types,Input/Output Operations
+1-python_basics_task1.ipynb:- Arithmetic Operations,Assignment Operators,Comparison Operators,Conditional Statements,Looping Constructs, Basic Data Types,Input/Output Operations
 
-2-anagha_vp_task2.ipynb:- This file contains a collection of Python function problems designed to help readers practice problem-solving skills and improve their understanding of Python functions.
+2-mao_reduce_filter_task2.ipynb:- This file contains a collection of Python function problems designed to help readers practice problem-solving skills and improve their understanding of Python functions.
 
-3-anagha_vp_task3.ipynb:-In this Python OOP Programs contains Class and Object Creation,Inheritance,Polymorphism,Encapsulation,Abstraction,
+3-oop_task3.ipynb:-In this Python OOP Programs contains Class and Object Creation,Inheritance,Polymorphism,Encapsulation,Abstraction,
 Method Overriding.
 
-4-anagha_vp_task4.ipynb-The file covers various regex concepts and functionalities, allowing users to learn and practice pattern matching techniques. Each program is accompanied by comments explaining the regex pattern used and its functionality.
+4-regex_task4.ipynb-The file covers various regex concepts and functionalities, allowing users to learn and practice pattern matching techniques. Each program is accompanied by comments explaining the regex pattern used and its functionality.
 
-5-anagha_vp_task5.ipynb:-The file covers various functionalities provided by Pandas and NumPy, allowing users to learn and practice data handling, cleaning, transformation, and analysis techniques using Python.
+5-pandas_numpy_task5.ipynb:-The file covers various functionalities provided by Pandas and NumPy, allowing users to learn and practice data handling, cleaning, transformation, and analysis techniques using Python.
 
-6-anagha vp task6.ipynb:-This file contains a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
+6-matplotlib_task6.ipynb:-This file contains a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
 
 7-iris_EDA:- exploratory data analysis of iris data set
