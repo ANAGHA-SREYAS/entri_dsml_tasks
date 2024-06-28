@@ -6,7 +6,7 @@ This repository includes the following Python tasks:
 
 1-python_basics_task1.ipynb:- Arithmetic Operations,Assignment Operators,Comparison Operators,Conditional Statements,Looping Constructs, Basic Data Types,Input/Output Operations
 
-2-mao_reduce_filter_task2.ipynb:- This file contains a collection of Python function problems designed to help readers practice problem-solving skills and improve their understanding of Python functions.
+2-map_reduce_filter_task2.ipynb:- This file contains a collection of Python function problems designed to help readers practice problem-solving skills and improve their understanding of Python functions.
 
 3-oop_task3.ipynb:-In this Python OOP Programs contains Class and Object Creation,Inheritance,Polymorphism,Encapsulation,Abstraction,
 Method Overriding.
