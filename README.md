@@ -22,3 +22,5 @@ Method Overriding.
 8-ML-regression_task1.ipynb:-This project aims to predict insurance claim charges using machine learning regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
 
 9-ML_classification_task2.ipynb:-This repository contains code and data for a machine learning classification task aimed at predicting outcome/target based on features.
+
+10-Convolution_neural_network.ipynb:-This includes code for training a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset, focusing on achieving high accuracy through deep learning techniques and model optimization.
